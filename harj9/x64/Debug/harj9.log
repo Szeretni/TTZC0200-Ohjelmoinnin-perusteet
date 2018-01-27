@@ -1,0 +1,4 @@
+﻿  harj9.cpp
+z:\ttzc0200 ohjelmoinnin perusteet\harj9\harj9.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  harj9.vcxproj -> Z:\TTZC0200 Ohjelmoinnin perusteet\x64\Debug\harj9.exe
+  harj9.vcxproj -> Z:\TTZC0200 Ohjelmoinnin perusteet\x64\Debug\harj9.pdb (Partial PDB)

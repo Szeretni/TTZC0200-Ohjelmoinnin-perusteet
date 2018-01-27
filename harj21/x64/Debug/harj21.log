@@ -1,0 +1,8 @@
+﻿  harj21.cpp
+d:\visual studio\harj21\harj21.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\visual studio\harj21\harj21.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio\harj21\harj21.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visual studio\harj21\harj21.cpp(47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visual studio\harj21\harj21.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  harj21.vcxproj -> D:\visual studio\x64\Debug\harj21.exe
+  harj21.vcxproj -> D:\visual studio\x64\Debug\harj21.pdb (Partial PDB)

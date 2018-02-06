@@ -1,3 +1,12 @@
+/*Hannu Oksman
+Todo:
+	-More comments
+	-Input without buffer
+	-dynamic list for high scores
+	-diagonal match checking
+	-dimensional blocks (now they occupy just one point)
+*/
+
 #include "tetris.h"
 int alkukohta = 1;
 int perakkainoltava = 3;
